@@ -1,2 +1,2 @@
 # abeme
-меня тут нет
+.i .ignore .you
