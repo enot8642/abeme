@@ -9,3 +9,4 @@ emoji = """
 """
 print(favorite_city)
 print(emoji)
+print(lviv)
