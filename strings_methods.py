@@ -10,8 +10,8 @@ user_last_name = input(MSG_INPUT_LAST_NAME).title().strip()
 # mark = '!'
 # result = welcome_text + user_first_name + ' ' + user_last_name + mark
 
-template = 'Вiтаю тебе, {first_name} {last_name}!'
-result = template.format(first_name=user_first_name, last_name=user_last_name)
-
-
+result = f'Вiтаю тебе, {user_first_name} {user_last_name} '
 print(result)
+
+
+print()
